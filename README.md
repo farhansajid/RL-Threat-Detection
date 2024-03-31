@@ -1,9 +1,9 @@
-Q-Learning Agent
+Q-Learning and SARSA Agents
 
-This repository contains a Python implementation of a Q-Learning agent using TensorFlow and OpenAI Gym.
+This repository contains a Python implementation of a Q-Learning and SARSA agents using TensorFlow and OpenAI Gym.
 Description
 
-The Q-Learning algorithm is a model-free reinforcement learning technique used to learn optimal action-selection policies. In this implementation, the agent learns to interact with an environment provided by OpenAI Gym.
+The Q-Learning and SARSA algorithms are model-free reinforcement learning techniques used to learn optimal action-selection policies. In this implementation, the agent learns to interact with an environment provided by OpenAI Gym.
 Usage
 
     Installation:
@@ -60,7 +60,7 @@ Methods
 
 Acknowledgements
 
-    This implementation is inspired by the Q-Learning algorithm and the OpenAI Gym environment.
+    This implementation is inspired by the Q-Learning and SARSA algorithm and the OpenAI Gym environment.
 
 License
 
